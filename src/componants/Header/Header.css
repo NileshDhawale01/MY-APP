@@ -1,0 +1,12 @@
+.header {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+  width: 100%;
+  background-color: #a8dfce;
+  color: #fff;
+  height: 10vh;
+  font-size: 24px;
+  text-align: center;
+  z-index: 1; /* Ensure header stays above other elements */
+}

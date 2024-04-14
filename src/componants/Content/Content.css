@@ -1,0 +1,15 @@
+.content-data-head {
+  margin-left: 220px;
+  /* Adjust margin to accommodate sidebar */
+}
+
+.content-data {
+  margin-top: 60px;
+  /* Adjust margin to accommodate sidebar */
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding-top: 10px;
+  align-items: center;
+}

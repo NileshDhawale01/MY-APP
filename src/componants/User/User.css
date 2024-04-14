@@ -1,0 +1,26 @@
+.users {
+  background-color: #e5caca;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  margin: 70px auto;
+  max-width: 300px;
+}
+
+.users h2 {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.users p {
+  margin: 5px 0;
+}
+
+.users:hover {
+  transform: translateY(-2px);
+  transition: transform 0.3s ease;
+}
+
+.users-delete{
+  margin: 250px 100px 10px auto;
+}
